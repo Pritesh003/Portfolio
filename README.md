@@ -1,7 +1,7 @@
 # Portfolio Optimization
 
-##### Made a portfolio, calculated the weight assigned to each asset by optimization.
-##### In between the following questions have been answered:
+##### In this notebook we made a portfolio, calculated the weight assigned to each asset by optimization.
+##### In between, the following questions have been answered:
  - How did we choose the stocks?
  - What is the impact of increasing the number of stocks in the portfolio?
  - Why are calculating the weights by optimization and not giving equal weightage to every stock?
