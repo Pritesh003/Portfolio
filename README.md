@@ -10,6 +10,6 @@
 
 ###### For the data, we have taken two years stock return to optimize our model and check the accuracy of your model by testing it on the data of the following year.
 ###### 01/04/2015-31/03/2017 : to calculate the weights
-###### Use 01/04/2017-31/03/2018 : to test the accuracy
+###### 01/04/2017-31/03/2018 : to test the accuracy
 
 MCAP_TOP100.xlsx contains list of top companies in India by market capitalization.
